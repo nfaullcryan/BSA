@@ -1,0 +1,94 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 00_Handover_Document.indd
+
+PACKAGE DATE: 5/9/2018 11:08 AM
+Creation Date: 5/9/2018
+Modification Date: 5/9/2018
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: HelveticaNeueLTStd-Lt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Md; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Roman; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Th; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-ThIt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-UltLt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-UltLtIt; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+1 Process Inks; 1 Spot Inks
+
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE 282 C; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 0 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+PRINT SETTINGS
+PPD: N/A, (Microsoft Print to PDF)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 49p7.276 x 70p1.89
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 00_Handover_Document.indd; type: Adobe InDesign publication; size: 1288K
+2. 00_Handover_Document.idml; type: InDesign Markup Document; size: 58K
+3. 00_Handover_Document.pdf; type: Adobe Acrobat Document; size: 43K
+4. HelveticaNeueLTStd-Lt.otf; type: Font file; size: 27K
+5. HelveticaNeueLTStd-Md.otf; type: Font file; size: 27K
+6. HelveticaNeueLTStd-Roman.otf; type: Font file; size: 26K
+7. HelveticaNeueLTStd-Th.otf; type: Font file; size: 27K
+8. HelveticaNeueLTStd-ThIt.otf; type: Font file; size: 28K
+9. HelveticaNeueLTStd-UltLt.otf; type: Font file; size: 27K
+10. HelveticaNeueLTStd-UltLtIt.otf; type: Font file; size: 28K
